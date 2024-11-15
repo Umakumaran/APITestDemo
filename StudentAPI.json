@@ -1,0 +1,54 @@
+{
+  "Student": [
+    {
+      "id": "1",
+      "name": "Uma",
+      "Location": "india",
+      "Phone": "1234678952",
+      "Course": [
+        "java",
+        "selenium"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Pavi",
+      "Location": "US",
+      "Phone": "6948516495",
+      "Course": [
+        "Phython",
+        "Appium"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Ravi",
+      "Location": "Canada",
+      "Phone": "6979599631",
+      "Course": [
+        "C#",
+        "RESTAPI"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Suguna",
+      "Location": "india",
+      "Phone": "124461662",
+      "Course": [
+        "java",
+        "selenium"
+      ]
+    },
+    {
+      "id": "cf32",
+      "Phone": "789456123",
+      "name": "Arun",
+      "Course": [
+        "Cloud data",
+        "AWS"
+      ],
+      "Location": "India"
+    }
+  ]
+}

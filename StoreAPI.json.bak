@@ -1,0 +1,33 @@
+{
+  "store":{
+   "book":[
+	 {
+      "author":"Herman Melville",
+	"Category":"fiction",
+	"isbn":"0-553-21311-3",
+	"price":75.50,
+	"title":"Moby Dick"
+	},
+{
+"author":"Nigel Rees",
+	"Category":"reference",
+	"isbn":"0-553-213541-3",
+	"price":150.50,
+	"title":"Sayings of the Century"
+},
+{
+"author":"Evelyn Waygh",
+	"Category":"fiction",
+	"price":100.50,
+	"title":"Sword of Honour"
+},
+	{
+	"author":"J.R.R.Tolkien",
+	"Category":"fiction",
+	"isbn":"0-395-19395-8",
+	"price":200.00,
+	"title":"The Lord of the Rings"
+	}
+      ]
+    },
+}
